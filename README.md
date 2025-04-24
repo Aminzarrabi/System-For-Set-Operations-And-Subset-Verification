@@ -1,2 +1,4 @@
 # System-For-Set-Operations-And-Subset-Verification
-System for Set Operations and Subset Verification in C++ Using Classes and Operator Overloading
+Design a C++ system to perform operations on two sets of numbers or characters, including union, intersection, and difference using operator overloading, and subset verification using a function.
+How does it work? 
+You enter the sets, and then the result will appear.
